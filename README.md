@@ -37,20 +37,6 @@ You can click the Preview link to take a look at your changes.
   <p>WebAssembly (Wasm) continued its ascent in 2022, enabling high-performance web applications. Wasm allows running code written in multiple languages, such as C++, Rust, and Go, directly in the browser, providing near-native execution speeds. This trend empowered developers to create powerful web applications, games, and multimedia experiences, blurring the lines between traditional desktop and web applications.</p>
 
   <h2>Trend 6: DevOps and Site Reliability Engineering</h2>
-  <p>In 2022, the importance of DevOps and Site Reliability Engineering (SRE) grew even further. Organizations focused on automation, continuous integration and delivery (CI/CD), and infrastructure-as-code practices. DevOps and SRE principles became fundamental for streamlining software development, ensuring stability, and facilitating collaboration between development and operations teams.</p
-<head>
-  <title>YouTube Redirect Button</title>
-</head>
-<body>
-  <button id="youtubeButton">Go to YouTube</button>
-
-  <script>
-    // Get the button element by its ID
-    var youtubeButton = document.getElementById("youtubeButton");
-
-    // Add a click event listener to the button
-    youtubeButton.addEventListener("click", function() {
-      // Redirect the user to the YouTube link
-      window.location.href = "https://youtube.com/@CRICKET_WORLD_69";
-    });
-
+  <p>In 2022, the importance of DevOps and Site Reliability Engineering (SRE) grew even further. Organizations focused on automation, continuous integration and delivery (CI/CD), and infrastructure-as-code practices. DevOps and SRE principles became fundamental for streamlining software development, ensuring stability, and facilitating collaboration between development and operations teams.</p>
+  <button>youtube</button><a href="https://youtube.com/@CRICKET_WORLD_69">
+  <h1>this is made by <em>mithilesh kumawat</em></h1>
